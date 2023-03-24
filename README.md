@@ -4,4 +4,4 @@ Built for Veradigm
 * Allows users to select a doctor and filter the catalog by doctors with the similar expertise
 * Results are ordered by rating
 
-(Link to documentation)[https://github.com/chiyanz/doctors-app/blob/main/src/App.js]
+[Link to documentation](https://github.com/chiyanz/doctors-app/blob/main/src/App.js)
